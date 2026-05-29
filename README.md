@@ -5,13 +5,13 @@
 ## 🎥 Project Demo
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=6Xbj1IjR4mo" target="_blank">
-    <img src="https://img.youtube.com/vi/6Xbj1IjR4mo/maxresdefault.jpg" alt="GlobalForce Demo Video" width="80%">
+  <a href="https://youtu.be/cOYKCcVSubc?si=nGSUx2DoNSSo0pDW" target="_blank">
+    <img src="https://img.youtube.com/vi/cOYKCcVSubc/maxresdefault.jpg" alt="GlobalForce Demo Video" width="80%">
   </a>
 </p>
 
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=6Xbj1IjR4mo](https://www.youtube.com/watch?v=cOYKCcVSubc)">
+  <a href="https://youtu.be/cOYKCcVSubc?si=nGSUx2DoNSSo0pDW">
     ▶️ Watch Full Process Demo on YouTube
   </a>
 </p>
