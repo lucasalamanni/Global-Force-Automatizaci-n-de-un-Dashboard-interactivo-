@@ -2,6 +2,22 @@
 
 # GlobalForce - Workforce Executive Reporting Automation
 
+## 🎥 Project Demo
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=6Xbj1IjR4mo" target="_blank">
+    <img src="https://img.youtube.com/vi/6Xbj1IjR4mo/maxresdefault.jpg" alt="GlobalForce Demo Video" width="80%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=6Xbj1IjR4mo">
+    ▶️ Watch Full Process Demo on YouTube
+  </a>
+</p>
+
+---
+
 ## 📌 Project Overview
 
 This project automates the generation of workforce executive reports for GlobalForce enterprise clients by integrating multiple internal data sources into a centralized analytics pipeline.
